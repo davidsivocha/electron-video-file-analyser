@@ -1,23 +1,23 @@
 {
-  "name": "electron-video-file-analyser",
-  "version": "1.0.0",
-  "description": "Video File Analyser",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/davidsivocha/electron-video-file-analyser.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/davidsivocha/electron-video-file-analyser/issues"
-  },
-  "homepage": "https://github.com/davidsivocha/electron-video-file-analyser#readme",
-  "dependencies": {
-    "electron": "^2.0.2",
-    "npm": "^6.1.0"
-  }
+    "name": "electron-video-file-analyser",
+    "version": "1.0.0",
+    "description": "Video File Analyser",
+    "main": "index.js",
+    "scripts": {
+        "electron": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davidsivocha/electron-video-file-analyser.git"
+    },
+    "author": "David Sivocha <david@sivocha.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/davidsivocha/electron-video-file-analyser/issues"
+    },
+    "homepage": "https://github.com/davidsivocha/electron-video-file-analyser#readme",
+    "dependencies": {
+        "electron": "^2.0.2",
+        "npm": "^6.1.0"
+    }
 }
