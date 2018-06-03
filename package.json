@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/davidsivocha/electron-video-file-analyser/issues"
   },
-  "homepage": "https://github.com/davidsivocha/electron-video-file-analyser#readme"
+  "homepage": "https://github.com/davidsivocha/electron-video-file-analyser#readme",
+  "dependencies": {
+    "electron": "^2.0.2",
+    "npm": "^6.1.0"
+  }
 }
